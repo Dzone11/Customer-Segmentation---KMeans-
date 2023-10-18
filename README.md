@@ -1,7 +1,7 @@
 # Customer-Segmentation: KMeans
 Customer segmentation using an unsupervised learning algorithm
 
-The dataset I have used is from Kaggle - Customer Segmentation Dataset 
+The dataset I have used is from Kaggle - Mall Customer  Dataset 
 - In this project, I applied unsupervised machine learning to perform customer segmentation based on their purchase behavior.
 - I chose K-means as the clustering algorithm because it is simple, fast, and efficient for large datasets.
 - To find the optimal number of clusters, I used the within-cluster sum of squares (WCSS) as the evaluation metric and plotted the elbow curve to identify the point where the WCSS decreases significantly.
