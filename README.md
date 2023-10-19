@@ -1,4 +1,4 @@
-# Customer-Segmentation: KMeans
+# Customer-Segmentation - KMeans
 Customer segmentation using an unsupervised learning algorithm
 
 The dataset I have used is from Kaggle - Mall Customer  Dataset 
